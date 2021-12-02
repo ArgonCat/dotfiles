@@ -1,2 +1,1 @@
-
-lovely li'l collection of ma dotfiles
+# lovely li'l collection of ma dotfiles
